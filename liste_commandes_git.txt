@@ -3,8 +3,8 @@ Liste des commandes git :
 git init <depot> : creation d'un dépot
 git status : état du depot
 git add <fichier> : ajout modification dans le prochain commit
-git commit -m "message" : validation d'un ensemble de modifications
-git branch <branche> : création d'une nouvelle branche
+git commit -m "message" : validation d'un ensembe de modifications
+git branch <branche> [start point]: création d'une nouvelle branche à partir d'une autre
 git checkout <branche> : utilisation d'une branche
 git merge <branche > : fusion des modifications d'une branche dans une autre
 git help <commande> : affichage de l'aide
