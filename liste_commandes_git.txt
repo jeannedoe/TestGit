@@ -6,5 +6,5 @@ git add <fichier> : ajout modification dans le prochain commit
 git commit -m "message" : validation d'un ensemble de modifications
 git branch <branche> : creation d'une nouvelle branche
 git checkout <branche> : utilisation d'une branche
-git merge <branche > : fusion des modification d'une branche dans une autre
+git merge <branche > : fusion des modifications d'une branche dans une autre
 git help <commande> : affichage de l'aide
