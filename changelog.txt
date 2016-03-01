@@ -1,2 +1,2 @@
 version initiale :
-  1 redame et un changelog
+  1 readme et un changelog
