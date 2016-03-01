@@ -1,0 +1,5 @@
+Liste des commandes git :
+
+git init <depot> : creation d'un dépot
+git status : état du depot
+git add <fichier> : ajout modification dans le prochain commit
