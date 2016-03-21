@@ -12,3 +12,5 @@ git checkout <branche> : utilisation d'une branche
 git merge <branche > : fusion des modifications d'une branche dans une autre
 git help <commande> : affichage de l'aide
 git remote add <nom> <repository> : ajout d'un dépot distant
+git rebase <branche > : ajout des modification d'une branche dans la branche courante (en les ajoutant au debut)
+
